@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Contato>
+<id>100</id>
+<nome>Fulano da Silva</nome>
+<email>fulano@email.com</email>
+<Telefones>
+<Telefone>
+<id>1</id>
+<ddd>55</ddd>
+<numero>32214512</numero>
+</Telefone>
+<Telefone>
+<id>2</id>
+<ddd>55</ddd>
+<numero>99879885</numero>
+</Telefone>
+</Telefones>
+<Endereco>
+<id>11</id>
+<logradouro>Rua dos Javanezes</logradouro>
+<bairro>Largo Zero</bairro>
+<cep>97010600</cep>
+<cidade>Java City</cidade>
+<complemento>Ap.103A</complemento>
+<numero>65</numero>
+</Endereco>
+</Contato>
